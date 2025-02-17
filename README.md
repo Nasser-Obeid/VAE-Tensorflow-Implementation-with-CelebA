@@ -29,6 +29,8 @@ This implementation provides:
 - Visualization tools to explore the latent space and generated samples.
 
 ## Features
+### Latent Space Visualization
+![Latent Space](clusters.png)
 - **Modular Design**: Easily extendable for different datasets and architectures.
 - **Latent Space Visualization**: Tools to visualize the learned latent space.
 - **Pre-trained Models**: Download and use pre-trained models for quick results.
