@@ -19,6 +19,9 @@ This repository contains a Python implementation of a **Variational Autoencoder 
 ## Introduction
 A Variational Autoencoder (VAE) is a type of generative model that combines ideas from deep learning and probabilistic graphical models. It consists of an encoder network that maps input data to a latent space and a decoder network that reconstructs the data from the latent space. VAEs are widely used for tasks such as image generation, anomaly detection, and data compression.
 
+### Latent Space Visualization
+![Latent Space](latent_space.png)
+
 This implementation provides:
 - A clean and modular codebase.
 - An automated process to tune the parameters using MLFlow.
