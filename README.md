@@ -21,8 +21,8 @@ A Variational Autoencoder (VAE) is a type of generative model that combines idea
 
 This implementation provides:
 - A clean and modular codebase.
-- An automated process to tune the parameters using MLrun.
-- Pre-trained models and example datasets for quick experimentation.
+- An automated process to tune the parameters using MLFlow.
+- Full implementation using Tensorflow.
 - Visualization tools to explore the latent space and generated samples.
 
 ## Features
